@@ -17,8 +17,6 @@ import org.apache.commons.fileupload.servlet.ServletFileUpload;
 
 public class Upload extends HttpServlet {
 
-	
-	
 	/**
 	 * 
 	 */
